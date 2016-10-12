@@ -1,8 +1,22 @@
-Tips to Writing an Effective Paper
+## my working model
+
+To be used in conjunction with the tips & tricks below:
+
+- Based on some over-arching question, you do some research.
+- Over the course of doing said research and analyzing results, you notice new things or develop alternative thoughts and interpretations.
+- Think about what data you have. Think about your results. Think of the various ways you could cauche these results. Pick the most interesting one. It's okay if it doesn't totally reflect the over-arching question that motivated you to do the research in the first place. That's the consequence of being a thinking person.
+- Make the first figure that illustrates what you did. Usually this only makes sense for experiments.
+- Each additional figure should represent a major finding or take-home.
+- Your figures should tell the story by themeselves. Give your figures and an abstract to someone. If they don't get the take-home message from the paper, you can do better.
+- Craft your introduction around your results. Don't misdirect.
+- Methods and Results are straightforward.
+- If you have no idea what to do in the Discussion: (1) Summary the paper. (2) Walk back through your figures. Put them in a broader context. Speculate wildly. Make connections. (3) Tell the reader how this work influences the main question you used to motivate your paper in the first place.
+
+## Tips to Writing an Effective Paper
 
 based on “Writing Science” by Joshua Schmiel
 
-Overall
+### Overall
 
 -   structure of your story
 
@@ -18,7 +32,7 @@ Overall
         away from your study. Always have this is mind before you write
         your paper, before you give a lab meeting presentation, etc.
 
-Introduction
+### Introduction
 
 -   Overview of the three sections:
 
@@ -82,7 +96,7 @@ Introduction
         -   sell the problem, then the solution, not the other way
             around
 
-Challenge
+### Challenge
 
 -   This is the end of the Introduction, but it’s really important so it
     gets its own section
@@ -108,13 +122,13 @@ Challenge
 -   “to learn X, we did Y”: present the question and the approach to
     answering it
 
-Materials/Methods
+### Materials/Methods
 
 -   be specific
 
 -   pretty straightforward
 
-Results
+### Results
 
 -   there are three types of material in the second half of a paper:
 
@@ -146,7 +160,7 @@ Results
 
         -   see fig. 8.3 in *Writing Science* for a good demonstration
 
-Discussion
+### Discussion
 
 -   present thoughts and interpretations; answer the questions posed in
     the challenge; show the contribution of this work to the larger
@@ -156,7 +170,7 @@ Discussion
 
 -   the discussion should be a sort within itself
 
-Resolution
+### Resolution
 
 -   forms the very end of the discussion
 
@@ -192,7 +206,9 @@ Resolution
 
 -   do not undermine your conclusions or qualify unnecessarily
 
-After Writing Your Article, ask yourself the following:
+
+
+## After Writing Your Article, ask yourself the following:
 
 based on Kuyper 1991
 
