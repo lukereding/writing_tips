@@ -12,6 +12,15 @@ To be used in conjunction with the tips & tricks below:
 - Methods and Results are straightforward.
 - If you have no idea what to do in the Discussion: (1) Summary the paper. (2) Walk back through your figures. Put them in a broader context. Speculate wildly. Make connections. (3) Tell the reader how this work influences the main question you used to motivate your paper in the first place.
 
+Your writing is an extension of yourself. You can be honest with your writing or you can be aloof, fail to engage, or simply not care enough to craft something that is your own. George Saunders wrote the following about fiction, but just think how nice it would be to read papers if scientists followed his advice?
+
+-----   
+
+The difference between Ester Forbes and the authors of _Polyglot 141_ was that Forbes had fully invested herself in her sentences. She had made them her own, agreed to live or die by them, taken total responsibility for the. How had she done this? I didn't know. But I do now: she'd revised them. She had abided lon enough with each of them to push past the normal into what we might call the _excessive-meaningful_; had held the prose up to sufficient scrutiny to turn it into something iconic, something that sounded like her and only her. -- _The Brainhead Microphone_, pgs. 62-63    
+
+-----   
+
+
 ## Tips to Writing an Effective Paper
 
 based on “Writing Science” by Joshua Schmiel
