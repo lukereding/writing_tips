@@ -3,14 +3,15 @@
 To be used in conjunction with the tips & tricks below:
 
 - Based on some over-arching question, you do some research.
-- Over the course of doing said research and analyzing results, you notice new things or develop alternative thoughts and interpretations.
+- Over the course of doing said research and analyzing results, you notice new things or develop alternative thoughts and interpretations. A closed mind is not conducive to rigorous science.
 - Think about what data you have. Think about your results. Think of the various ways you could cauche these results. Pick the most interesting one. It's okay if it doesn't totally reflect the over-arching question that motivated you to do the research in the first place. That's the consequence of being a thinking person.
-- Make the first figure that illustrates what you did. Usually this only makes sense for experiments.
+- Make the first figure that illustrates what you did or what measurements you took. Usually this only makes sense for experiments.
 - Each additional figure should represent a major finding or take-home.
-- Your figures should tell the story by themeselves. Give your figures and an abstract to someone. If they don't get the take-home message from the paper, you can do better.
+- Your figures should tell the story by themeselves. Give your figures and an abstract to someone. If they don't get the take-home message from the paper, guess what? You still have a lot of work to do.
 - Craft your introduction around your results. Don't misdirect.
 - Methods and Results are straightforward.
 - If you have no idea what to do in the Discussion: (1) Summary the paper. (2) Walk back through your figures. Put them in a broader context. Speculate wildly. Make connections. (3) Tell the reader how this work influences the main question you used to motivate your paper in the first place.
+- Throughout the process, don't accept mediocrity. Always be better.
 
 Your writing is an extension of yourself. You can be honest with your writing or you can be aloof, fail to engage, or simply not care enough to craft something that is your own. George Saunders wrote the following about fiction, but just think how nice it would be to read papers if scientists followed his advice?
 
