@@ -1,3 +1,5 @@
+Life is too short for subpar writing.
+
 ## my working model
 
 To be used in conjunction with the tips & tricks below:
