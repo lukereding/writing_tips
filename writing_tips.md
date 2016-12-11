@@ -1,4 +1,4 @@
-Life is too short for subpar writing.
+Because life is too short for subpar writing.
 
 ## my working model for writing an academic paper
 
