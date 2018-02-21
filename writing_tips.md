@@ -294,12 +294,12 @@ Overview
 > 20\. Reflect on the author’s thinking and writing style. Does the author
 > present this research logically and clearly?
 
-Other Writing Tips
+# Other Writing Tips
 
-These are based on Steven Pinker’s book, “Sense of Style”.
+These are based on Steven Pinker’s book, _Sense of Style_.
 
-The overarching idea: A writer, in conversation with a reader, directs
-the reader’s gaze to something in the world (pg 56).
+The overarching idea: __A writer, in conversation with a reader, directs
+the reader’s gaze to something in the world (pg 56)__.
 
 -   Avoid metadiscourse and signposting.
 
@@ -401,13 +401,16 @@ the reader’s gaze to something in the world (pg 56).
         the same thing, but don’t start using weird subjects just to
         avoid the monotony, like ‘flying animal’ or some shit like that
 
+
+--------------
+
 Andrew Hendry’s Advice (from
 [*http://redpath-staff.mcgill.ca/hendry/writingtips.pdf*](http://redpath-staff.mcgill.ca/hendry/writingtips.pdf))
 
 see (“writingtips.pdf” in you Grad School folder in your dropbox if link
 is broken)
 
-Writing Grants, with a focus on the DDIG
+### Writing Grants, with a focus on the DDIG
 
 The first paragraph should be its own little abstract. The writer should
 say, ‘Here’s this problem, this is why it’s important and important,
@@ -456,7 +459,7 @@ and to have decided without ambiguity what interpretation shall be
 placed upon each one of them.” - R. A. Fisher, *The Design of
 Experiments*
 
-Politics and the English Language, George Orwell
+### Politics and the English Language, George Orwell
 
 -   There is a link between the way we think and the way we write. If we
     write poorly, it is probably being we are not thinking clearly. The
@@ -502,7 +505,7 @@ Politics and the English Language, George Orwell
 
     5.  Use simple words.
 
-Style: towards clarity and grace. Joseph Williams
+### Style: towards clarity and grace. Joseph Williams
 
 Writing sentences
 
