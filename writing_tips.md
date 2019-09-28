@@ -17,6 +17,9 @@ To be used in conjunction with the tips & tricks below:
 
 Your writing is an extension of yourself. You can be honest with your writing or you can be aloof, fail to engage, or simply not care enough to craft something that is your own. Hemingway's writing was so stripped down and pure because he had such a low tolerance for bullshit. Be like him.
 
+------------
+
+Cormac McCarthy's thoughts on writing science are given in [this](https://www.nature.com/articles/d41586-019-02918-5) Nature article.
 
 ## Tips to Writing an Effective Paper
 
