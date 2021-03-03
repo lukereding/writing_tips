@@ -5,7 +5,7 @@ Because life is too short for subpar writing.
 To be used in conjunction with the tips & tricks below:
 
 - Based on some over-arching question, you do some research.
-- Over the course of doing said research and analyzing results, you notice new things or develop alternative thoughts and interpretations. A closed mind is not conducive to rigorous science.
+- Over the course of doing said research and analyzing results, you notice new things or develop alternative thoughts and interpretations*. A closed mind is not conducive to rigorous science.
 - Think about what data you have. Think about your results. Think of the various ways you could cauche these results. Pick the most interesting one. It's okay if it doesn't totally reflect the over-arching question that motivated you to do the research in the first place. That's the consequence of being a thinking person.
 - Make the first figure that illustrates what you did or what measurements you took. Usually this only makes sense for experiments.
 - Each additional figure should represent a major finding or take-home.
@@ -16,6 +16,8 @@ To be used in conjunction with the tips & tricks below:
 - Throughout the process, don't accept mediocrity. Always be better.
 
 Your writing is an extension of yourself. You can be honest with your writing or you can be aloof, fail to engage, or simply not care enough to craft something that is your own. Hemingway's writing was so stripped down and pure because he had such a low tolerance for bullshit. Be like him.
+
+\*This is another way of saying: I don't think you have to be wed to the ideas you had going into the project when it comes times to write the paper. Some people will think this is sacrilegious or downright irresponsibe, but if every scientist simply tested hypotheses, we would run out of hypotheses to test in the first place (or, at least, good hypotheses to test). I think maintaining the yin and yang of hypothesis-testing and hypothesis-generating science is probably a good spot to be in. See [Yanai and Lercher 2020](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w).
 
 ------------
 
